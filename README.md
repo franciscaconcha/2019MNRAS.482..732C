@@ -22,13 +22,7 @@ You can run an individual simulation by using the AMUSE script directly:
 amuse.sh cluster_with_viscous_disks.py
 ```
 
-Or run a series of simulations using the shell script:
-
-```
-source run_simulations.sh
-```
-
-Both scripts have extensive options which can be passed through the command line. For a list of these options run:
+The script has extensive options which can be passed through the command line. For a list of these options run:
 
 ```
 amuse.sh cluster_with_viscous_disks.py --help
