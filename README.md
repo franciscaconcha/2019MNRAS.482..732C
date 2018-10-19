@@ -50,4 +50,4 @@ This project is licensed under the GPL v3 License - see the [LICENSE.md](LICENSE
 
 ## Acknowledgments
 
-* We thank to Arjen van Elteren for invaluable technical help!
+* We thank [Arjen van Elteren](https://github.com/arjenve) for invaluable help with AMUSE!
