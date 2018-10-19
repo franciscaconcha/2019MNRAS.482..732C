@@ -1,9 +1,9 @@
 # viscous-disks-submit
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1465972.svg)](https://doi.org/10.5281/zenodo.1465972) [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-(Code to run the simulations and generate figures of the paper: )
+(Code to run the simulations and generate figures of the paper: [https://ui.adsabs.harvard.edu/#abs/2018MNRAS.tmp.2601C/abstract](https://ui.adsabs.harvard.edu/#abs/2018MNRAS.tmp.2601C/abstract))
 
-This is a code to run simulations of star clusters where the stars have protoplanetary disks around them. The disks are parametrized using the descriptions of Lynden-Bell & Pringle 1974 (1974MNRAS.168..603L) and Hartmann et al 1998 (1998ApJ...495..385H). The simulations are run using the AMUSE (Astrophysical Multipurpose Software Environment) framework.
+This is a code to run simulations of star clusters where the stars have protoplanetary disks around them. The disks are parametrized using the descriptions of Lynden-Bell & Pringle 1974 ([1974MNRAS.168..603L](https://doi.org/10.1093/mnras/168.3.603)) and Hartmann et al 1998 ([1998ApJ...495..385H](https://doi.org/10.1086/305277)). The simulations are run using the [AMUSE framework](http://amusecode.org) (Astrophysical Multipurpose Software Environment).
 
 ## Getting Started
 
