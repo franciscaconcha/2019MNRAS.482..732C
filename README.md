@@ -10,7 +10,7 @@ This is a code to run simulations of star clusters where the stars have protopla
 These instructions will get you a copy of the project up and running on your local machine for testing purposes. You will be able to run the simulations as specified in the paper and to reproduce the figures.
 
 ### Prerequisites
-* Python 2.7 or higher
+* Python 2.7. Should work fine with Python 3 but it has not been tested.
 * AMUSE: https://github.com/amusecode/amuse
 * scipy
 
