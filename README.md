@@ -27,8 +27,17 @@ The script has extensive options which can be passed through the command line. F
 ```
 amuse.sh cluster_with_viscous_disks.py --help
 ```
+
 ### Creating the plots
 
+Figures 1, 2, and 3 of the paper were created with the script ```plot_disks.py```. You can run it as:
+
+```
+amuse.sh plot_disks.py
+```
+A list of options is available for this script, including the path to the files that you want to use for the plots. To see the list of options add ```--help``` or ```-h``` to the line above.
+
+Figures 4, 5, and 6 of the paper were created with the script ```find_models.py```. Instructions are the same as above.
 
 
 ## Authors
