@@ -1,4 +1,4 @@
-# 2019MNRAS.482..732C
+# 2019MNRAS.482..732C The viscous evolution of circumstellar discs in young star clusters
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1465931.svg)](https://doi.org/10.5281/zenodo.1465931) [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) ![python](https://img.shields.io/badge/python-2.7-yellow.svg)
 
 (Code to run the simulations and generate figures of the paper: [2019MNRAS.482..732C: The viscous evolution of circumstellar discs in young star clusters](https://academic.oup.com/mnras/article/482/1/732/5124387).)
