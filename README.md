@@ -5,6 +5,8 @@
 
 This is a code to run simulations of star clusters where the stars have protoplanetary disks around them. Protoplanetary disks are subject to viscous growth and dynamical truncations. The disks are parametrized using the descriptions of Lynden-Bell & Pringle 1974 ([1974MNRAS.168..603L](https://doi.org/10.1093/mnras/168.3.603)) and Hartmann et al 1998 ([1998ApJ...495..385H](https://doi.org/10.1086/305277)). The simulations are run using the [AMUSE framework](http://amusecode.org) (Astrophysical Multipurpose Software Environment). See paper for more details.
 
+For questions please contact Francisca Concha-Ramírez, fconcha at strw.leidenuniv.nl
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for testing purposes. You will be able to run the simulations as specified in the paper and to reproduce the figures.
