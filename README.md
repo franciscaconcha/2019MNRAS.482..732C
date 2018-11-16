@@ -46,7 +46,7 @@ Figures 4, 5, and 6 of the paper were created with the script ```find_models.py`
 
 
 * **Francisca Concha-Ramírez** - [francisca.cr](https://francisca.cr) [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](http://twitter.com/franconchar)
-* **Eero Vaher** - *Initial work* 
+* **Eero Vaher**
 * **Simon Portegies Zwart**
 
 ## License
